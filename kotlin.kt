@@ -1,3 +1,5 @@
+// run code in https://try.kotlinlang.org
+
 fun main(args: Array<String>) {
     println(multiply(20,10))
 }
