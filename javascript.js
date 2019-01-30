@@ -7,6 +7,6 @@ function multiply(n1 = 0, n2 = 0) {
     total += n2;
   }
   const result = negativo ? -total : total;
-  console.log("result is :"result);
+  console.log("result is :", result);
   return result;
 }
